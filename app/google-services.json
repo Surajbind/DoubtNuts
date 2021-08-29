@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848079728541",
+    "project_id": "doubtnuts-2267e",
+    "storage_bucket": "doubtnuts-2267e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848079728541:android:705f1b97356f539fe04974",
+        "android_client_info": {
+          "package_name": "com.example.doubtnuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848079728541-25usr0ejsb8e5r8tl1gv2j50mmtb7i96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC10Q2ox_rDVRWydAu46xV6poNZo4etF8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848079728541-25usr0ejsb8e5r8tl1gv2j50mmtb7i96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigatiom_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_computerAr"
+            android:title="Topic:"
+            android:icon="@drawable/ic_computer"
+            />
+        <item
+            android:id="@+id/nav_dbms"
+            android:title="DBMS"
+            android:icon="@drawable/ic_dbms"
+            />
+        <item
+            android:id="@+id/nav_operatingSys"
+            android:title="Operating System"
+            android:icon="@drawable/ic_operating"
+            />
+        <item
+            android:id="@+id/nav_math"
+            android:title="Maths"
+            android:icon="@drawable/ic_maths"
+            />
+        <item
+            android:id="@+id/nav_android"
+            android:title="Android"
+            android:icon="@drawable/ic_android"
+            />
+        <item android:title="Action">
+            <menu>
+                <item android:id="@+id/share"
+                    android:title="Share"
+                    android:icon="@drawable/ic_share"/>
+                <item android:id="@+id/rate"
+                    android:title="Rate"
+                    android:icon="@drawable/ic_rate"/>
+                <item
+                    android:id="@+id/logout"
+                    android:title="Logout"
+                    android:icon="@drawable/ic_logout"/>
+            </menu>
+        </item>
+    </group>
+</menu>
